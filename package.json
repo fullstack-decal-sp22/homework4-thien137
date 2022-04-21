@@ -2,7 +2,7 @@
   "name": "homework4-thien137",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://fullstack-decal-github.io/homework4-thien137",
+  "homepage": "https://fullstack-decal.github.io/homework4-thien137/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
